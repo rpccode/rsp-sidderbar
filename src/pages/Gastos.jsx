@@ -78,7 +78,7 @@ const Gastos = () => {
               </div>
             </div>
             <div className="px-4 py-2 mb-5 bg-white rounded-xl shadow-xl flex items-center">
-              <img src="logo.svg" className="h-5 w-5 rounded-md " />
+              <img src="src\img\icono_casa.svg" className="h-15 w-10 rounded-md " />
               <div className="px-5 flex flex-grow items-center justify-between">
                 <div className="space-y-1">
                   <p className="uppercase text-sm font-bold text-gray-500">
@@ -95,7 +95,7 @@ const Gastos = () => {
             </div>
 
             <div className="px-4 py-2 bg-white rounded-xl shadow-xl flex items-center">
-              <img src="logo.svg" className="h-5 w-5 rounded-md " />
+              <img src="src\img\icono_comida.svg" className="h-10 w-10 rounded-md " />
               <div className="px-5 flex flex-grow items-center justify-between">
                 <div className="space-y-1">
                   <p className="uppercase text-sm font-bold text-gray-500">

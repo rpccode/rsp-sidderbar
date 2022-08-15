@@ -33,7 +33,7 @@ const SidderBar = () => {
                       </Link>
                     </li>
                     <li>
-                      <Link to="#" className="group relative before:absolute before:inset-x-0 before:bottom-0 before:h-2 before:origin-right before:scale-x-0 before:bg-cyan-100 before:transition before:duration-200 hover:before:origin-left hover:before:scale-x-100">
+                      <Link to="/Prestamos" className="group relative before:absolute before:inset-x-0 before:bottom-0 before:h-2 before:origin-right before:scale-x-0 before:bg-cyan-100 before:transition before:duration-200 hover:before:origin-left hover:before:scale-x-100">
                         <span className="relative group-hover:text-cyan-800">Prestamos</span>
                       </Link>
                     </li>
